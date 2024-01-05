@@ -60,13 +60,25 @@ function alterarContexto(contexto) {
 }
 
 const contagemRegressica = () => {
-	// iniciar();
+	if (tempoDecorridoEmSegundos <= 0) {
+		zerar();
+		alert('Tempo Finalizado!');
+		return;
+	}
 	tempoDecorridoEmSegundos -= 1;
 	console.log('Temporizador: ' + tempoDecorridoEmSegundos);
 };
 
-startPauseBt.addEventListener('click', contagemRegressica);
+startPauseBt.addEventListener('click', iniciarOuPausar);
 
-function iniciar() {
+function iniciarOuPausar() {
+	if (intervaloId) {
+		zerar();
+		return;
+	}
 	intervaloId = setInterval(contagemRegressica, 1000);
+}
+function zerar() {
+	clearInterval(intervaloId);
+	intervaloId = null;
 }
