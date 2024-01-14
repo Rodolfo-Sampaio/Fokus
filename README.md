@@ -5,11 +5,17 @@
 
 Esse projeto é baseado na técnica Pomodoro para melhorar a concentração em tarefas importantes. Ele envolve períodos de 25 minutos de foco, seguidos por pausas de 5 minutos ou uma pausa mais longa de 15 minutos. Ao clicar em "Descanso curto", vários elementos na tela, como a frase, imagem e cor de fundo, são alterados. Além disso, ao selecionar "Começar" no cronômetro, o botão muda de estilo, um áudio é ativado, e o cronômetro é iniciado; escolher "Pausar" aciona outro áudio e pausa o cronômetro, é parte do curso:
 ### JavaScript: manipulando elementos no DOM da [Alura](https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom) ⭐
+ 
+<br>
+Continuando com o aprimoramento da aplicação, foi implementado o CRUD (Create, Read, Update, Delete) na lista de tarefas. Agora, é possível selecionar, deletar e finalizar tarefas por meio de eventos customizados do JavaScript. Este processo envolve o aprendizado de diversas técnicas, incluindo métodos de depuração para identificar e corrigir possíveis bugs, é parte do curso:
+
+
+### JavaScript: explorando a manipulação de elementos e da localStorage da [Alura](https://cursos.alura.com.br/course/javascript-manipulacao-elementos-localstorage) ⭐
 
 
 <br>
 
-### Layout Responsivo para Mobile, Tablet e Desktop
+### Layout para Mobile, Tablet e Desktop
 ---
 ![fokus](https://github.com/Rodolfo-Sampaio/Fokus/assets/96917363/d8333f0e-118c-47d6-9045-49e5eef1cbe0)
 
@@ -35,7 +41,13 @@ Esse projeto é baseado na técnica Pomodoro para melhorar a concentração em t
 
 <br>
 
-### Instrutor(a):
+### Instrutores:
+
+<a href="https://github.com/viniciosneves">
+  <img src="https://avatars.githubusercontent.com/u/9221969?v=4" alt="Vinicios Neves" style="border-radius: 50%; width: 45px; height: 45px;">
+</a>
+
+[Vinicios Neves](https://github.com/viniciosneves)
 
 <a href="https://www.linkedin.com/in/luanalvesdev/">
   <img src="https://media.licdn.com/dms/image/C4E03AQEYV6-AbrWjSA/profile-displayphoto-shrink_200_200/0/1644505759993?e=1708560000&v=beta&t=Voswju-FBFZP0N1L7Ltj7FBRt2CtDC4-VwS8JEu2FTc" alt="Luan Alves" style="border-radius: 50%; width: 50px; height: 50px;">
