@@ -254,7 +254,7 @@ h6 {
 }
 
 .app__section-task-header__ul:hover,
-.app_button-more:hover~.app__section-task-header__ul {
+.app__button-more:hover~.app__section-task-header__ul {
     display: block;
     text-align: right;
     border-radius: 0.8rem;
