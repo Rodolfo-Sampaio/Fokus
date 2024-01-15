@@ -56,6 +56,6 @@ Continuando com o aprimoramento da aplicação, foi implementado o CRUD (Create,
 [Luan Alves](https://www.linkedin.com/in/luanalvesdev/)
 <br>
 <br>
-### 🚀 Valeu pela passada no meu Git. Se curtiu, bora trocar ideias! Dá um [`Follow`](https://github.com/Rodolfo-Sampaio) que tô sempre por aqui.  😎👩‍💻
+#### Obrigado por visitar meu Git. Se você der um [`Follow`](https://github.com/Rodolfo-Sampaio), ficarei feliz em retribuir!🚀💻
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e74a3&height=120&section=footer"/>
