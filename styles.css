@@ -281,32 +281,6 @@ h6 {
 
 /* fim - dropdown */
 
-/* Para Tablets */
-@media (max-width: 1024px) and (min-width: 768px) {
-    .app__section-banner-container {
-        width: 48rem;
-    }
-}
-
-/* Para Celulares */
-@media (max-width: 767px) {
-    .app__section-banner-container {
-        width: 32rem;
-    }
-
-    .app__title {
-        font-size: 2.6rem;
-    }
-
-    .app__card-timer {
-        font-size: 6rem;
-    }
-
-    .app__section-active-task {
-        gap: 2rem;
-    }
-}
-
 .hidden {
     display: none;
 }
@@ -513,4 +487,39 @@ h6 {
     color: #e6e6e6;
     opacity: 0.8;
     cursor: not-allowed;
+}
+
+/* Para Tablets */
+@media (max-width: 1024px) and (min-width: 768px) {
+    .app__section-banner-container {
+        width: 48rem;
+    }
+}
+
+/* Para Celulares */
+@media (max-width: 767px) {
+    .app__section-banner-container {
+        width: 32rem;
+    }
+
+    .app__title {
+        font-size: 2.6rem;
+    }
+
+    .app__card-timer {
+        font-size: 6rem;
+    }
+
+    .app__section-active-task {
+        gap: 2rem;
+    }
+
+    .app__form-footer {
+        margin-top: 1.2rem;
+        flex-wrap: wrap;
+    }
+
+    .app__form-footer > :nth-child(4) {
+        margin-left: auto;
+    }
 }
